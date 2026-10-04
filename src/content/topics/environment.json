@@ -1,0 +1,279 @@
+{
+  "articles": [
+    {
+      "id": "article_2026_w40_env_01",
+      "meta": {
+        "title": "Coral Reefs Show Unexpected Signs of Recovery",
+        "source": "The Atlantic",
+        "sourceUrl": "https://www.theatlantic.com/science/archive/2026/09/coral-reef-recovery",
+        "publishDate": "2026-09-27",
+        "topic": "environment",
+        "difficulty": "hard",
+        "wordCount": 950,
+        "generatedAt": "2026-10-04T03:00:00Z",
+        "status": "approved"
+      },
+      "modules": {
+        "introduction": {
+          "type": "introduction",
+          "chineseSummary": "最新研究发现，部分珊瑚礁在白化事件后展现出惊人的恢复能力。科学家在南太平洋观察到珊瑚种群通过改变共生藻类组合来适应升温海水。这一发现为珊瑚保育策略提供了新思路，但也提醒我们气候变化的压力仍在持续加剧。",
+          "whyItMatters": "环境/气候变化是考研英语阅读的常青题材，2021年英语一阅读考了海洋保护，本文提供了珊瑚礁恢复这一具体生态话题的深度素材。",
+          "relatedExamYears": ["2021", "2020", "2019"]
+        },
+        "vocabulary": {
+          "type": "vocabulary",
+          "cards": [
+            {
+              "id": "vocab_env_001",
+              "word": "reef",
+              "phonetic": "/riːf/",
+              "meaning": "礁，暗礁",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Coral reefs support approximately 25% of all marine species.",
+                "source": "原文",
+                "translation": "珊瑚礁支撑着约25%的海洋物种。"
+              },
+              "collocation": ["coral reef", "barrier reef"],
+              "synonyms": ["ridge", "shoal"],
+              "note": "环境类文章专有名词，常与 coral 搭配"
+            },
+            {
+              "id": "vocab_env_002",
+              "word": "symbiotic",
+              "phonetic": "/ˌsɪmbaɪˈɑːtɪk/",
+              "meaning": "共生的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "低频",
+              "example": {
+                "sentence": "Coral and algae maintain a symbiotic relationship essential for reef survival.",
+                "source": "改写",
+                "translation": "珊瑚和藻类维持着对珊瑚礁生存至关重要的共生关系。"
+              },
+              "collocation": ["symbiotic relationship", "symbiotic partnership"],
+              "synonyms": ["mutual", "interdependent"],
+              "note": "生物/环境类学术词汇"
+            },
+            {
+              "id": "vocab_env_003",
+              "word": "bleaching",
+              "phonetic": "/ˈbliːtʃɪŋ/",
+              "meaning": "白化，漂白",
+              "partOfSpeech": "n./adj.",
+              "examFrequency": "低频",
+              "example": {
+                "sentence": "Mass coral bleaching events have become more frequent due to rising ocean temperatures.",
+                "source": "改写",
+                "translation": "由于海洋温度上升，大规模珊瑚白化事件变得更加频繁。"
+              },
+              "collocation": ["coral bleaching", "mass bleaching"],
+              "synonyms": ["whitening", "fading"],
+              "note": "环境类专有名词，指珊瑚因高温失去共生藻而变白"
+            },
+            {
+              "id": "vocab_env_004",
+              "word": "resilient",
+              "phonetic": "/rɪˈzɪliənt/",
+              "meaning": "有韧性的，能复原的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Some coral species prove more resilient to environmental stress than previously thought.",
+                "source": "改写",
+                "translation": "一些珊瑚种类被证明比之前认为的更能适应环境压力。"
+              },
+              "collocation": ["resilient to", "highly resilient"],
+              "synonyms": ["tough", "adaptable"],
+              "note": "与 resilience 同源，形容词形式，常考'适应力'"
+            },
+            {
+              "id": "vocab_env_005",
+              "word": "algae",
+              "phonetic": "/ˈældʒiː/",
+              "meaning": "藻类",
+              "partOfSpeech": "n.",
+              "examFrequency": "低频",
+              "example": {
+                "sentence": "The coral expels the symbiotic algae living in its tissues when stressed.",
+                "source": "改写",
+                "translation": "珊瑚在受到压力时会排出其组织中生活的共生藻类。"
+              },
+              "collocation": ["symbiotic algae", "microscopic algae"],
+              "synonyms": ["seaweed"],
+              "note": "生物学词汇，alga 的复数形式"
+            },
+            {
+              "id": "vocab_env_006",
+              "word": "exacerbate",
+              "phonetic": "/ɪɡˈzæsərbeɪt/",
+              "meaning": "加剧，使恶化",
+              "partOfSpeech": "v.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Pollution from agricultural runoff exacerbates the stress on already weakened reefs.",
+                "source": "改写",
+                "translation": "农业径流造成的污染加剧了本已脆弱的珊瑚礁所承受的压力。"
+              },
+              "collocation": ["exacerbate the problem", "exacerbate stress"],
+              "synonyms": ["worsen", "aggravate"],
+              "note": "写作中表示'使情况更糟'的高级词汇，比 worsen 更学术"
+            },
+            {
+              "id": "vocab_env_007",
+              "word": "conservation",
+              "phonetic": "/ˌkɑːnsərˈveɪʃn/",
+              "meaning": "保护，保存",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Marine conservation efforts have intensified in response to declining reef health.",
+                "source": "改写",
+                "translation": "针对珊瑚礁健康状况下降，海洋保护工作已得到加强。"
+              },
+              "collocation": ["wildlife conservation", "energy conservation"],
+              "synonyms": ["preservation", "protection"],
+              "note": "环境类文章高频词，注意与 conversation 区分"
+            },
+            {
+              "id": "vocab_env_008",
+              "word": "mitigation",
+              "phonetic": "/ˌmɪtɪˈɡeɪʃn/",
+              "meaning": "缓解，减轻",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Climate change mitigation is essential for the long-term survival of coral ecosystems.",
+                "source": "改写",
+                "translation": "气候变化缓解对于珊瑚生态系统的长期生存至关重要。"
+              },
+              "collocation": ["climate mitigation", "risk mitigation"],
+              "synonyms": ["reduction", "alleviation"],
+              "note": "climate mitigation = 气候缓解措施，常考搭配"
+            },
+            {
+              "id": "vocab_env_009",
+              "word": "preliminary",
+              "phonetic": "/prɪˈlɪmɪneri/",
+              "meaning": "初步的，预备的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Preliminary findings suggest that some reefs may recover faster than expected.",
+                "source": "改写",
+                "translation": "初步发现表明一些珊瑚礁可能比预期恢复得更快。"
+              },
+              "collocation": ["preliminary results", "preliminary study"],
+              "synonyms": ["initial", "tentative"],
+              "note": "学术文章中'初步研究结果'的标准表达"
+            },
+            {
+              "id": "vocab_env_010",
+              "word": "threshold",
+              "phonetic": "/ˈθreʃhoʊld/",
+              "meaning": "门槛，阈值",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Scientists are working to determine the temperature threshold beyond which coral cannot recover.",
+                "source": "改写",
+                "translation": "科学家们正在确定珊瑚无法恢复的温度阈值。"
+              },
+              "collocation": ["temperature threshold", "pain threshold"],
+              "synonyms": ["limit", "boundary"],
+              "note": "科学/环境类文章高频词，表示临界点"
+            }
+          ]
+        },
+        "sentences": {
+          "type": "sentences",
+          "cards": [
+            {
+              "id": "sentence_env_001",
+              "original": "What initially appeared to be an irreversible trajectory of decline has, in certain isolated reef systems, given way to a pattern of cyclical disturbance and recovery that challenges the prevailing narrative of inevitable ecosystem collapse.",
+              "translation": "最初看似不可逆转的衰退轨迹，在某些孤立的珊瑚礁系统中，已让位于一种周期性干扰与恢复的模式，这一模式挑战了生态系统必然崩溃的主流叙事。",
+              "structure": "What 引导主语从句（What initially appeared...）+ 谓语（has given way to...）+ 同位语 that 引导定语从句修饰 pattern，其中 challenges 为从句谓语。",
+              "keyGrammar": "主语从句 + 定语从句",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_env_002",
+              "original": "The mechanism underlying this resilience appears to involve a shift in the composition of symbiotic algae, whereby corals that survive bleaching events gradually replace heat-sensitive algal strains with more thermally tolerant varieties, effectively recalibrating their thermal threshold.",
+              "translation": "这种韧性背后的机制似乎涉及共生藻类组成的变化——幸免于白化事件的珊瑚逐渐用热耐受性更强的品种替代热敏感藻株，有效地重新校准了它们的热阈值。",
+              "structure": "主语（The mechanism）+ 现在分词后置定语（underlying this resilience）+ 谓语（appears to involve...）+ 同位语 a shift...，whereby 引导非限制性定语从句，从句中 corals 为主语，that 引导定语从句修饰 corals，replace...with... 为谓语，effectively recalibrating... 为现在分词结果状语。",
+              "keyGrammar": "定语从句 + whereby 引导的从句 + 现在分词结果状语",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_env_003",
+              "original": "While these findings offer a measure of cautious optimism, they should not be interpreted as evidence that the threat of climate change to marine ecosystems has diminished; rather, they underscore the complexity of ecological responses and the danger of drawing premature conclusions from short-term observations.",
+              "translation": "虽然这些发现提供了一分谨慎的乐观，但它们不应被解读为气候变化对海洋生态系统威胁已减弱的证据；相反，它们凸显了生态响应的复杂性，以及从短期观察中得出过早结论的危险。",
+              "structure": "While 引导让步从句 + 主句（they should not be interpreted as...），that 引导同位语从句，分号后 rather 引导转折句，underscore 为谓语，the complexity...和 the danger... 为并列宾语，of drawing... 为后置定语。",
+              "keyGrammar": "让步从句 + 同位语从句 + 分号连接的转折句",
+              "source": "改写"
+            }
+          ]
+        },
+        "examMapping": {
+          "type": "examMapping",
+          "mappings": [
+            {
+              "examYear": "2021",
+              "examType": "英语一",
+              "questionType": "阅读理解",
+              "relation": "同题材背景",
+              "note": "2021年英语一阅读考了海洋保护与可持续发展，本文是同一话题的深入案例"
+            },
+            {
+              "examYear": "2019",
+              "examType": "英语二",
+              "questionType": "阅读理解",
+              "relation": "同话题延伸",
+              "note": "2019年英语二阅读考了环境变化对生物的影响"
+            }
+          ]
+        },
+        "bilingual": {
+          "type": "bilingual",
+          "paragraphs": [
+            {
+              "english": "In a surprising turn of events, marine biologists studying the South Pacific's coral ecosystems have documented what they describe as 'unexpected signs of recovery' following recent bleaching events.",
+              "chinese": "令人惊讶的是，研究南太平洋珊瑚生态系统的海洋生物学家记录了他们所说的近期白化事件后的意外恢复迹象。"
+            },
+            {
+              "english": "The key to this resilience appears to lie in the corals' ability to switch symbiotic partners. When water temperatures rise, corals expel their heat-sensitive algae. In some cases, the corals then acquire more heat-tolerant algal strains, allowing them to survive in warmer waters.",
+              "chinese": "这种韧性的关键似乎在于珊瑚切换共生伙伴的能力。当水温升高时，珊瑚会排出热敏感的藻类。在某些情况下，珊瑚随后获取更具热耐受性的藻株，使它们能够在更温暖的水域中生存。"
+            },
+            {
+              "english": "However, researchers caution that this adaptive capacity has limits. If ocean temperatures continue to rise at current rates, even the most resilient coral species may eventually reach a point of no return.",
+              "chinese": "然而，研究人员警告说，这种适应能力是有限度的。如果海洋温度继续以目前的速度上升，即使是最具韧性的珊瑚种类最终也可能达到不可逆转的临界点。"
+            }
+          ]
+        },
+        "fragmentCards": {
+          "type": "fragmentCards",
+          "cards": [
+            {
+              "id": "frag_env_001",
+              "type": "fact",
+              "content": "Some corals can switch symbiotic algae partners to adapt to warmer waters.",
+              "context": "珊瑚可通过切换共生藻类伙伴适应更温暖的水域"
+            },
+            {
+              "id": "frag_env_002",
+              "type": "quote",
+              "content": "While these findings offer cautious optimism, they should not be interpreted as evidence that the threat has diminished.",
+              "context": "写作可用：谨慎乐观但不能过度解读"
+            },
+            {
+              "id": "frag_env_003",
+              "type": "data",
+              "content": "Coral reefs support ~25% of all marine species despite covering less than 1% of ocean floor.",
+              "context": "珊瑚礁覆盖不到1%的海底，却支撑约25%的海洋物种"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

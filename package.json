@@ -1,0 +1,17 @@
+{
+  "name": "kaoyan-english-press",
+  "version": "1.0.0",
+  "description": "考研英语外刊热点拆解网站 - P0 版本",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "lint:content": "node scripts/quality-check.js",
+    "dev": "npx serve src/",
+    "build": "echo '静态站点，无需构建。直接运行 npm run dev 即可预览。'"
+  },
+  "keywords": ["kaoyan", "english", "press", "spaced-repetition"],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

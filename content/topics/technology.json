@@ -1,0 +1,279 @@
+{
+  "articles": [
+    {
+      "id": "article_2026_w40_tech_01",
+      "meta": {
+        "title": "AI Regulation: The EU's Bold New Framework",
+        "source": "The Economist",
+        "sourceUrl": "https://www.economist.com/technology-quarterly/2026/09/28/ai-regulation",
+        "publishDate": "2026-09-28",
+        "topic": "technology",
+        "difficulty": "medium",
+        "wordCount": 920,
+        "generatedAt": "2026-10-04T02:15:00Z",
+        "status": "approved"
+      },
+      "modules": {
+        "introduction": {
+          "type": "introduction",
+          "chineseSummary": "欧盟于2026年正式实施了全球首部全面性人工智能监管法案（AI Act）。该法案将AI系统按风险等级分为四类，对高风险AI应用设定了严格的透明度与合规要求。科技巨头纷纷调整产品策略以适应新规，这一全球首例立法为其他国家的AI监管提供了重要参考框架。",
+          "whyItMatters": "AI 话题是近年考研英语阅读高频题材，涉及科技伦理、政策监管、企业责任等核心考点，2024年英语二阅读B篇即考了AI对工作的影响。",
+          "relatedExamYears": ["2024", "2023", "2022"]
+        },
+        "vocabulary": {
+          "type": "vocabulary",
+          "cards": [
+            {
+              "id": "vocab_tech_001",
+              "word": "regulation",
+              "phonetic": "/ˌreɡjuˈleɪʃn/",
+              "meaning": "法规，规章制度",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "The new regulation imposes strict limits on data collection.",
+                "source": "改写",
+                "translation": "新规对数据收集施加了严格限制。"
+              },
+              "collocation": ["strict regulation", "government regulation"],
+              "synonyms": ["rule", "law", "directive"],
+              "note": "考研阅读态度题常出现'反对过度监管'的观点"
+            },
+            {
+              "id": "vocab_tech_002",
+              "word": "framework",
+              "phonetic": "/ˈfreɪmwɜːrk/",
+              "meaning": "框架，体系结构",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "The legal framework needs updating to address emerging technologies.",
+                "source": "改写",
+                "translation": "法律框架需要更新以应对新兴技术。"
+              },
+              "collocation": ["legal framework", "regulatory framework"],
+              "synonyms": ["structure", "system"],
+              "note": "政策类文章高频词，常与 policy/law 搭配"
+            },
+            {
+              "id": "vocab_tech_003",
+              "word": "compliance",
+              "phonetic": "/kəmˈplaɪəns/",
+              "meaning": "遵守，服从，合规",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Companies face heavy fines for non-compliance with the new standards.",
+                "source": "改写",
+                "translation": "企业若不遵守新标准将面临高额罚款。"
+              },
+              "collocation": ["in compliance with", "regulatory compliance"],
+              "synonyms": ["conformity", "adherence"],
+              "note": "阅读中表示'遵守规定'的正式用词"
+            },
+            {
+              "id": "vocab_tech_004",
+              "word": "transparency",
+              "phonetic": "/trænsˈpærənsi/",
+              "meaning": "透明性，透明度",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "The act demands greater transparency in how algorithms make decisions.",
+                "source": "改写",
+                "translation": "该法案要求算法决策过程有更高的透明度。"
+              },
+              "collocation": ["greater transparency", "lack of transparency"],
+              "synonyms": ["clarity", "openness"],
+              "note": "科技伦理类文章核心词汇"
+            },
+            {
+              "id": "vocab_tech_005",
+              "word": "impose",
+              "phonetic": "/ɪmˈpoʊz/",
+              "meaning": "强加，征收（税款），利用",
+              "partOfSpeech": "v.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Governments should not impose unrealistic burdens on small businesses.",
+                "source": "改写",
+                "translation": "政府不应给小企业强加不切实际的负担。"
+              },
+              "collocation": ["impose restrictions", "impose fines"],
+              "synonyms": ["enforce", "levy"],
+              "note": "政策类文章中常表示'施加限制/罚款'"
+            },
+            {
+              "id": "vocab_tech_006",
+              "word": "burden",
+              "phonetic": "/ˈbɜːrdn/",
+              "meaning": "负担，重任",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "The regulatory burden falls most heavily on smaller tech firms.",
+                "source": "改写",
+                "translation": "监管负担对小型科技公司影响最大。"
+              },
+              "collocation": ["heavy burden", "economic burden"],
+              "synonyms": ["load", "responsibility"],
+              "note": "经济/政策类文章高频词，常考'负担分配'"
+            },
+            {
+              "id": "vocab_tech_007",
+              "word": "innovation",
+              "phonetic": "/ˌɪnəˈveɪʃn/",
+              "meaning": "创新，革新",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Some critics argue that excessive regulation stifles innovation.",
+                "source": "改写",
+                "translation": "一些批评者认为过度监管会扼杀创新。"
+              },
+              "collocation": ["technological innovation", "drive innovation"],
+              "synonyms": ["creation", "breakthrough"],
+              "note": "科技类文章必考词，常与 regulation 形成对立"
+            },
+            {
+              "id": "vocab_tech_008",
+              "word": "stifle",
+              "phonetic": "/ˈstaɪfl/",
+              "meaning": "扼杀，抑制，使窒息",
+              "partOfSpeech": "v.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Bureaucracy tends to stifle creativity in young companies.",
+                "source": "改写",
+                "translation": "官僚主义往往会扼杀年轻公司的创造力。"
+              },
+              "collocation": ["stifle innovation", "stifle creativity"],
+              "synonyms": ["suppress", "restrain"],
+              "note": "态度题中表示'负面抑制'，常与 innovation/creativity 搭配"
+            },
+            {
+              "id": "vocab_tech_009",
+              "word": "algorithm",
+              "phonetic": "/ˈælɡərɪðəm/",
+              "meaning": "算法，计算程序",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "The recommendation algorithm shapes what billions of users see daily.",
+                "source": "改写",
+                "translation": "推荐算法决定了数十亿用户每天看到的内容。"
+              },
+              "collocation": ["recommendation algorithm", "sorting algorithm"],
+              "synonyms": ["procedure", "formula"],
+              "note": "科技类文章核心词汇"
+            },
+            {
+              "id": "vocab_tech_010",
+              "word": "accountable",
+              "phonetic": "/əˈkaʊntəbl/",
+              "meaning": "负有责任的，应作解释的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Tech companies must be held accountable for the harms caused by their platforms.",
+                "source": "改写",
+                "translation": "科技公司必须对其平台造成的危害负责。"
+              },
+              "collocation": ["hold accountable", "accountable to"],
+              "synonyms": ["responsible", "liable"],
+              "note": "考研写作中'企业责任'话题高频词"
+            }
+          ]
+        },
+        "sentences": {
+          "type": "sentences",
+          "cards": [
+            {
+              "id": "sentence_tech_001",
+              "original": "While the intention behind the regulation is laudable, critics argue that its implementation could inadvertently stifle the very innovation it seeks to guide, particularly for smaller firms that lack the resources to navigate the complex compliance landscape.",
+              "translation": "虽然这项法规背后的初衷值得称赞，但批评者认为其实施可能会无意中扼杀它试图引导的创新本身，尤其是对于那些缺乏资源来应对复杂合规环境的小型企业而言。",
+              "structure": "While + 让步从句（the intention...laudable）, 主句（critics argue that...）, 其中 that 引导宾语从句，从句中包含一个定语从句（that lack...）修饰 smaller firms。",
+              "keyGrammar": "让步状语从句 + 嵌套宾语从句 + 定语从句",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_tech_002",
+              "original": "The challenge lies not in whether regulation is necessary, but in striking the delicate balance between protecting citizens from potential harm and preserving the ecosystem that allows technological breakthroughs to flourish.",
+              "translation": "挑战不在于监管是否必要，而在于如何在保护公民免受潜在危害与维护允许技术突破蓬勃发展的生态系统之间取得微妙的平衡。",
+              "structure": "主语（The challenge）+ 谓语（lies not in...but in...），not in A but in B 平行结构，A 和 B 均为 whether/动名词短语，其中 that 引导定语从句修饰 ecosystem。",
+              "keyGrammar": "not...but... 平行结构 + 定语从句",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_tech_003",
+              "original": "What distinguishes this legislation from previous attempts is its risk-based approach, which categorizes AI applications into four tiers, each subject to proportionate requirements that scale with the potential for harm.",
+              "translation": "使这项立法与先前尝试不同的是其基于风险的方法，它将AI应用分为四个层级，每一层级都受制于与潜在危害程度成比例的要求。",
+              "structure": "What 引导主语从句（What distinguishes...）+ 系表结构（is its risk-based approach）+ which 引导的非限制性定语从句，从句中 each 为同位语，subject to...为后置定语，that 引导定语从句修饰 requirements。",
+              "keyGrammar": "主语从句 + 非限制性定语从句 + 定语从句",
+              "source": "改写"
+            }
+          ]
+        },
+        "examMapping": {
+          "type": "examMapping",
+          "mappings": [
+            {
+              "examYear": "2024",
+              "examType": "英语二",
+              "questionType": "阅读理解",
+              "relation": "同题材背景",
+              "note": "2024年英语二阅读Text 2考了AI对工作的影响，本文讨论的AI监管是同一话题的延伸"
+            },
+            {
+              "examYear": "2023",
+              "examType": "英语二",
+              "questionType": "阅读理解",
+              "relation": "同题型思路",
+              "note": "2023年英语二阅读Text 1考了科技公司与隐私保护，与本文的监管主题高度相关"
+            }
+          ]
+        },
+        "bilingual": {
+          "type": "bilingual",
+          "paragraphs": [
+            {
+              "english": "The European Union's Artificial Intelligence Act, which came into force in 2026, represents the world's first comprehensive legal framework for AI. The legislation adopts a risk-based approach, classifying AI systems into four categories: minimal risk, limited risk, high risk, and unacceptable risk.",
+              "chinese": "欧盟于2026年生效的《人工智能法案》代表了全球首部针对AI的全面法律框架。该立法采用基于风险的方法，将AI系统分为四类：最小风险、有限风险、高风险和不可接受风险。"
+            },
+            {
+              "english": "High-risk AI systems, such as those used in recruitment, credit scoring, and law enforcement, face the strictest requirements. Companies must conduct risk assessments, maintain detailed logs, and ensure human oversight before deploying such systems.",
+              "chinese": "高风险AI系统——例如用于招聘、信用评分和执法领域的系统——面临最严格的要求。企业在部署此类系统前必须进行风险评估、保留详细日志并确保人工监督。"
+            },
+            {
+              "english": "While major technology companies have invested heavily in compliance teams, smaller startups worry that the costs of meeting these requirements could put them at a competitive disadvantage.",
+              "chinese": "虽然大型科技公司已在合规团队上投入巨资，但小型初创企业担心满足这些要求的成本可能使它们处于竞争劣势。"
+            }
+          ]
+        },
+        "fragmentCards": {
+          "type": "fragmentCards",
+          "cards": [
+            {
+              "id": "frag_tech_001",
+              "type": "fact",
+              "content": "The EU AI Act is the world's first comprehensive AI regulation, implemented in 2026.",
+              "context": "欧盟AI法案是全球首部全面的AI法规，于2026年实施"
+            },
+            {
+              "id": "frag_tech_002",
+              "type": "quote",
+              "content": "The challenge lies not in whether regulation is necessary, but in striking the delicate balance...",
+              "context": "考研写作可用句式：The challenge lies not in..., but in...（挑战不在于...，而在于...）"
+            },
+            {
+              "id": "frag_tech_003",
+              "type": "data",
+              "content": "AI systems are classified into four risk tiers: minimal, limited, high, and unacceptable.",
+              "context": "AI系统四级风险分类框架"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

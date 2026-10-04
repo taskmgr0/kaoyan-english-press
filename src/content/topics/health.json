@@ -1,0 +1,279 @@
+{
+  "articles": [
+    {
+      "id": "article_2026_w40_health_01",
+      "meta": {
+        "title": "Sleep Deprivation: The Hidden Epidemic Affecting Modern Workplaces",
+        "source": "BBC News",
+        "sourceUrl": "https://www.bbc.com/news/health-2026-sleep-deprivation",
+        "publishDate": "2026-09-29",
+        "topic": "health",
+        "difficulty": "easy",
+        "wordCount": 780,
+        "generatedAt": "2026-10-04T02:45:00Z",
+        "status": "approved"
+      },
+      "modules": {
+        "introduction": {
+          "type": "introduction",
+          "chineseSummary": "全球约三分之一的成年人长期睡眠不足。研究表明，睡眠不足不仅影响认知表现，还与心血管疾病、糖尿病和抑郁症风险显著相关。越来越多企业开始推行睡眠友好政策，但职场文化中的加班惯性仍是最大障碍。",
+          "whyItMatters": "健康/生活方式类题材是考研英语常客，2022年英语一阅读考了远程工作对健康的影响，本文提供了睡眠不足这一健康话题的最新研究视角。",
+          "relatedExamYears": ["2022", "2021", "2020"]
+        },
+        "vocabulary": {
+          "type": "vocabulary",
+          "cards": [
+            {
+              "id": "vocab_health_001",
+              "word": "deprivation",
+              "phonetic": "/ˌdeprɪˈveɪʃn/",
+              "meaning": "剥夺，匮乏",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Sleep deprivation has been linked to decreased immune function.",
+                "source": "改写",
+                "translation": "睡眠不足与免疫功能下降有关。"
+              },
+              "collocation": ["sleep deprivation", "emotional deprivation"],
+              "synonyms": ["lack", "deficiency"],
+              "note": "健康类文章核心词，常与 sleep/food 搭配"
+            },
+            {
+              "id": "vocab_health_002",
+              "word": "epidemic",
+              "phonetic": "/ˌepɪˈdemɪk/",
+              "meaning": "流行病，泛滥",
+              "partOfSpeech": "n./adj.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "The obesity epidemic has become a major public health concern.",
+                "source": "改写",
+                "translation": "肥胖流行病已成为主要的公共卫生关切。"
+              },
+              "collocation": ["obesity epidemic", "flu epidemic"],
+              "synonyms": ["outbreak", "plague"],
+              "note": "引申义表示'泛滥成灾的问题'，考研阅读高频"
+            },
+            {
+              "id": "vocab_health_003",
+              "word": "cognitive",
+              "phonetic": "/ˈkɑːɡnətɪv/",
+              "meaning": "认知的，认识的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Cognitive decline is one of the most noticeable effects of chronic sleep loss.",
+                "source": "改写",
+                "translation": "认知能力下降是慢性睡眠不足最显著的影响之一。"
+              },
+              "collocation": ["cognitive ability", "cognitive function"],
+              "synonyms": ["mental", "intellectual"],
+              "note": "心理学/健康类文章高频学术词汇"
+            },
+            {
+              "id": "vocab_health_004",
+              "word": "chronic",
+              "phonetic": "/ˈkrɑːnɪk/",
+              "meaning": "慢性的，长期的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Chronic stress can lead to serious physical and mental health problems.",
+                "source": "改写",
+                "translation": "慢性压力可能导致严重的身心健康问题。"
+              },
+              "collocation": ["chronic disease", "chronic pain"],
+              "synonyms": ["persistent", "long-term"],
+              "note": "与 acute（急性的）相对，医学/健康类必考"
+            },
+            {
+              "id": "vocab_health_005",
+              "word": "cardiovascular",
+              "phonetic": "/ˌkɑːrdioʊˈvæskjələr/",
+              "meaning": "心血管的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Poor sleep quality is associated with an increased risk of cardiovascular disease.",
+                "source": "改写",
+                "translation": "睡眠质量差与心血管疾病风险增加有关。"
+              },
+              "collocation": ["cardiovascular disease", "cardiovascular system"],
+              "synonyms": ["heart-related"],
+              "note": "医学类文章专业词汇，阅读中常作为举例出现"
+            },
+            {
+              "id": "vocab_health_006",
+              "word": "inertia",
+              "phonetic": "/ɪˈnɜːrʃə/",
+              "meaning": "惯性，惰性",
+              "partOfSpeech": "n.",
+              "examFrequency": "低频",
+              "example": {
+                "sentence": "Organizational inertia often prevents the adoption of healthier work practices.",
+                "source": "改写",
+                "translation": "组织惯性常常阻碍更健康的工作方式的采纳。"
+              },
+              "collocation": ["organizational inertia", "cultural inertia"],
+              "synonyms": ["resistance", "momentum"],
+              "note": "抽象名词，表示'难以改变的惯性'，写作可用"
+            },
+            {
+              "id": "vocab_health_007",
+              "word": "detrimental",
+              "phonetic": "/ˌdetrɪˈmentl/",
+              "meaning": "有害的，不利的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Extended screen time before bed has a detrimental effect on sleep quality.",
+                "source": "改写",
+                "translation": "睡前长时间看屏幕对睡眠质量有不利影响。"
+              },
+              "collocation": ["detrimental effect", "detrimental to"],
+              "synonyms": ["harmful", "damaging"],
+              "note": "比 harmful 更正式，常用于学术写作"
+            },
+            {
+              "id": "vocab_health_008",
+              "word": "implement",
+              "phonetic": "/ˈɪmplɪment/",
+              "meaning": "实施，执行",
+              "partOfSpeech": "v.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Several tech companies have implemented nap rooms and flexible hours.",
+                "source": "改写",
+                "translation": "多家科技公司已实施午休室和弹性工作制。"
+              },
+              "collocation": ["implement policy", "implement change"],
+              "synonyms": ["execute", "carry out"],
+              "note": "政策/措施类文章高频动词，比 do 更正式"
+            },
+            {
+              "id": "vocab_health_009",
+              "word": "flexible",
+              "phonetic": "/ˈfleksəbl/",
+              "meaning": "灵活的，可变通的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Flexible working hours can help employees maintain healthier sleep schedules.",
+                "source": "改写",
+                "translation": "弹性工作时间可以帮助员工保持更健康的睡眠作息。"
+              },
+              "collocation": ["flexible schedule", "flexible approach"],
+              "synonyms": ["adaptable", "adjustable"],
+              "note": "工作/生活方式类文章高频词"
+            },
+            {
+              "id": "vocab_health_010",
+              "word": "reap",
+              "phonetic": "/riːp/",
+              "meaning": "收获，获得",
+              "partOfSpeech": "v.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Companies that invest in employee well-being reap tangible benefits in productivity.",
+                "source": "改写",
+                "translation": "投资于员工福祉的公司在生产率方面获得了切实的收益。"
+              },
+              "collocation": ["reap benefits", "reap rewards"],
+              "synonyms": ["gain", "harvest"],
+              "note": "reap benefits/rewards 为固定搭配，写作常用"
+            }
+          ]
+        },
+        "sentences": {
+          "type": "sentences",
+          "cards": [
+            {
+              "id": "sentence_health_001",
+              "original": "What makes sleep deprivation particularly insidious is that its effects are cumulative and often go unrecognized until they manifest in serious health conditions that require medical intervention.",
+              "translation": "使睡眠不足尤为隐蔽的是，其影响是累积性的，通常在表现为需要医疗干预的严重健康问题之前往往不被察觉。",
+              "structure": "What 引导主语从句（What makes...insidious）+ 系表结构（is that...），that 引导表语从句，从句中 its effects 为主语，are cumulative and go unrecognized 为并列谓语，until 引导时间状语从句，其中 that 引导定语从句修饰 conditions。",
+              "keyGrammar": "主语从句 + 表语从句 + 时间状语从句 + 定语从句",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_health_002",
+              "original": "The paradox of modern work culture is that while employers increasingly demand creativity and critical thinking — faculties that depend heavily on adequate rest — they simultaneously celebrate and reward behaviors, such as working late into the night, that systematically undermine these very capabilities.",
+              "translation": "现代职场文化的悖论在于：虽然雇主越来越需要创造力和批判性思维——这些能力在很大程度上依赖于充足的休息——但他们同时赞扬和奖励诸如熬夜工作这样的行为，而这些行为正在系统地削弱这些能力本身。",
+              "structure": "主语（The paradox）+ 系表结构（is that...），that 引导表语从句，从句中 while 引导让步从句，faculties 为同位语，that 引导定语从句修饰 faculties；主句中 they 为主语，celebrate and reward 为谓语，that 引导定语从句修饰 behaviors，that 引导第二个定语从句修饰 behaviors。",
+              "keyGrammar": "表语从句 + 让步从句 + 同位语 + 多重定语从句",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_health_003",
+              "original": "Unlike acute health risks that prompt immediate behavioral change, the gradual erosion of cognitive function caused by chronic sleep loss operates below the threshold of conscious awareness, making it one of the most neglected public health issues of our time.",
+              "translation": "与引发即时行为改变的急性健康风险不同，慢性睡眠不足导致的认知功能 gradual 侵蚀在意识觉察阈值之下运作，使其成为我们这个时代最被忽视的公共卫生问题之一。",
+              "structure": "Unlike 短语开头 + 主语（the gradual erosion）+ 过去分词后置定语（caused by...）+ 谓语（operates），making it... 为现在分词结果状语。",
+              "keyGrammar": "过去分词后置定语 + 现在分词结果状语",
+              "source": "改写"
+            }
+          ]
+        },
+        "examMapping": {
+          "type": "examMapping",
+          "mappings": [
+            {
+              "examYear": "2022",
+              "examType": "英语一",
+              "questionType": "阅读理解",
+              "relation": "同题材背景",
+              "note": "2022年英语一阅读考了远程工作与健康，本文是同一健康话题的新视角"
+            },
+            {
+              "examYear": "2020",
+              "examType": "英语二",
+              "questionType": "阅读理解",
+              "relation": "同话题延伸",
+              "note": "2020年英语二阅读考了健康生活方式，与本文睡眠不足主题相关"
+            }
+          ]
+        },
+        "bilingual": {
+          "type": "bilingual",
+          "paragraphs": [
+            {
+              "english": "A new study by the World Health Organization reveals that approximately one-third of adults worldwide suffer from chronic sleep deprivation. The consequences extend far beyond daytime fatigue, affecting memory consolidation, emotional regulation, and immune response.",
+              "chinese": "世界卫生组织的一项新研究显示，全球约三分之一的成年人患有慢性睡眠不足。其后果远不止白天疲劳，还影响记忆巩固、情绪调节和免疫反应。"
+            },
+            {
+              "english": "Despite mounting scientific evidence, many workplaces continue to celebrate overtime culture. Employees who leave on time are often perceived as less committed, creating a powerful social pressure to sacrifice sleep for perceived productivity.",
+              "chinese": "尽管科学证据不断增加，许多工作场所仍在推崇加班文化。按时下班的员工常被认为不够投入，这形成了一种强大的社会压力，促使人们为了所谓的生产力而牺牲睡眠。"
+            },
+            {
+              "english": "Some forward-thinking companies have begun to challenge this norm by implementing 'sleep-friendly' policies, including flexible schedules, nap rooms, and strict after-hours communication bans.",
+              "chinese": "一些富有前瞻性的公司已开始通过实施睡眠友好政策来挑战这一常态，包括弹性工作时间、午休室和严格的非工作时间通讯禁令。"
+            }
+          ]
+        },
+        "fragmentCards": {
+          "type": "fragmentCards",
+          "cards": [
+            {
+              "id": "frag_health_001",
+              "type": "data",
+              "content": "Approximately one-third of adults worldwide suffer from chronic sleep deprivation.",
+              "context": "全球约1/3成年人慢性睡眠不足"
+            },
+            {
+              "id": "frag_health_002",
+              "type": "quote",
+              "content": "The paradox of modern work culture is that while employers demand creativity... they simultaneously reward behaviors that undermine these capabilities.",
+              "context": "现代职场悖论：需要创造力却奖励削弱创造力的行为"
+            },
+            {
+              "id": "frag_health_003",
+              "type": "fact",
+              "content": "Forward-thinking companies implement 'sleep-friendly' policies: flexible schedules, nap rooms, and after-hours communication bans.",
+              "context": "前瞻性公司的睡眠友好政策"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

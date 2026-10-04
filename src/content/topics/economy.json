@@ -1,0 +1,279 @@
+{
+  "articles": [
+    {
+      "id": "article_2026_w40_econ_01",
+      "meta": {
+        "title": "Global Trade Faces Uncertainty as Supply Chains Shift",
+        "source": "The Guardian",
+        "sourceUrl": "https://www.theguardian.com/business/2026/09/30/global-trade-supply-chains",
+        "publishDate": "2026-09-30",
+        "topic": "economy",
+        "difficulty": "medium",
+        "wordCount": 880,
+        "generatedAt": "2026-10-04T02:30:00Z",
+        "status": "approved"
+      },
+      "modules": {
+        "introduction": {
+          "type": "introduction",
+          "chineseSummary": "全球供应链正经历疫情后的深度重构。多国推行友岸外包策略，将关键产业链从单一市场分散至多个国家。这一趋势改变了延续数十年的全球化分工格局，带来了成本上升与供应链韧性增强之间的深刻博弈。",
+          "whyItMatters": "经济全球化/逆全球化是考研英语阅读历年热门话题，2023年英语一阅读考了贸易保护主义的影响，本文提供了最新案例素材。",
+          "relatedExamYears": ["2023", "2021", "2020"]
+        },
+        "vocabulary": {
+          "type": "vocabulary",
+          "cards": [
+            {
+              "id": "vocab_econ_001",
+              "word": "uncertainty",
+              "phonetic": "/ʌnˈsɜːrtnti/",
+              "meaning": "不确定性，不确定",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Economic uncertainty has led many companies to delay investment decisions.",
+                "source": "改写",
+                "translation": "经济不确定性已导致许多公司推迟投资决策。"
+              },
+              "collocation": ["economic uncertainty", "political uncertainty"],
+              "synonyms": ["doubt", "ambiguity"],
+              "note": "经济类文章绝对高频词，常考'不确定性对经济的影响'"
+            },
+            {
+              "id": "vocab_econ_002",
+              "word": "resilience",
+              "phonetic": "/rɪˈzɪliəns/",
+              "meaning": "韧性，恢复力",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Building supply chain resilience has become a top priority for manufacturers.",
+                "source": "改写",
+                "translation": "建立供应链韧性已成为制造商的首要任务。"
+              },
+              "collocation": ["economic resilience", "supply chain resilience"],
+              "synonyms": ["toughness", "flexibility"],
+              "note": "疫情后新热点词，常与 supply chain 搭配"
+            },
+            {
+              "id": "vocab_econ_003",
+              "word": "outsourcing",
+              "phonetic": "/ˈaʊtsɔːrsɪŋ/",
+              "meaning": "外包",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Friend-shoring represents a new form of outsourcing driven by geopolitical concerns.",
+                "source": "改写",
+                "translation": "友岸外包代表了一种由地缘政治关切驱动的新型外包形式。"
+              },
+              "collocation": ["business outsourcing", "offshore outsourcing"],
+              "synonyms": ["contracting", "subcontracting"],
+              "note": "经济全球化相关文章核心词汇"
+            },
+            {
+              "id": "vocab_econ_004",
+              "word": "geopolitical",
+              "phonetic": "/ˌdʒiːoʊpəˈlɪtɪkl/",
+              "meaning": "地缘政治的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Geopolitical tensions are reshaping global trade patterns.",
+                "source": "改写",
+                "translation": "地缘政治紧张局势正在重塑全球贸易格局。"
+              },
+              "collocation": ["geopolitical tension", "geopolitical risk"],
+              "synonyms": ["political", "strategic"],
+              "note": "近年考研高频词，常与 tension/risk 搭配"
+            },
+            {
+              "id": "vocab_econ_005",
+              "word": "diversify",
+              "phonetic": "/daɪˈvɜːrsɪfaɪ/",
+              "meaning": "使多样化，分散投资",
+              "partOfSpeech": "v.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "Companies are diversifying their supplier base to reduce dependency risks.",
+                "source": "改写",
+                "translation": "企业正在使其供应商基础多样化，以降低依赖风险。"
+              },
+              "collocation": ["diversify investment", "diversify supply"],
+              "synonyms": ["vary", "expand"],
+              "note": "经济类文章中表示'分散风险'的核心动词"
+            },
+            {
+              "id": "vocab_econ_006",
+              "word": "prolonged",
+              "phonetic": "/prəˈlɔːŋd/",
+              "meaning": "持久的，长期的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "The prolonged trade war has damaged bilateral economic relations.",
+                "source": "改写",
+                "translation": "长期的贸易战损害了双边经济关系。"
+              },
+              "collocation": ["prolonged period", "prolonged exposure"],
+              "synonyms": ["extended", "lengthy"],
+              "note": "修饰时间跨度，比'long'更正式"
+            },
+            {
+              "id": "vocab_econ_007",
+              "word": "vulnerability",
+              "phonetic": "/ˌvʌlnərəˈbɪləti/",
+              "meaning": "脆弱性，弱点",
+              "partOfSpeech": "n.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "The pandemic exposed the vulnerability of just-in-time supply chains.",
+                "source": "改写",
+                "translation": "疫情暴露了准时制供应链的脆弱性。"
+              },
+              "collocation": ["economic vulnerability", "security vulnerability"],
+              "synonyms": ["weakness", "fragility"],
+              "note": "与 resilience 形成反义对应，常考对比"
+            },
+            {
+              "id": "vocab_econ_008",
+              "word": "inflationary",
+              "phonetic": "/ɪnˈfleɪʃəneri/",
+              "meaning": "通货膨胀的，引起通胀的",
+              "partOfSpeech": "adj.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Supply chain disruptions have created inflationary pressures worldwide.",
+                "source": "改写",
+                "translation": "供应链中断已在全球范围内造成通胀压力。"
+              },
+              "collocation": ["inflationary pressure", "inflationary spiral"],
+              "synonyms": ["rising", "escalating"],
+              "note": "经济类文章必考词，常与 pressure 搭配"
+            },
+            {
+              "id": "vocab_econ_009",
+              "word": "disruption",
+              "phonetic": "/dɪsˈrʌpʃn/",
+              "meaning": "中断，扰乱",
+              "partOfSpeech": "n.",
+              "examFrequency": "高频",
+              "example": {
+                "sentence": "Climate-related disruptions are increasingly affecting agricultural supply chains.",
+                "source": "改写",
+                "translation": "与气候相关的中断正日益影响农业供应链。"
+              },
+              "collocation": ["supply disruption", "market disruption"],
+              "synonyms": ["interruption", "disturbance"],
+              "note": "科技/经济类文章通用高频词"
+            },
+            {
+              "id": "vocab_econ_010",
+              "word": "consolidate",
+              "phonetic": "/kənˈsɑːlɪdeɪt/",
+              "meaning": "巩固，合并",
+              "partOfSpeech": "v.",
+              "examFrequency": "中频",
+              "example": {
+                "sentence": "The industry is expected to consolidate as smaller players exit the market.",
+                "source": "改写",
+                "translation": "随着小型参与者退出市场，该行业预计将出现整合。"
+              },
+              "collocation": ["consolidate position", "consolidate gains"],
+              "synonyms": ["strengthen", "merge"],
+              "note": "经济类文章中表示'行业整合'"
+            }
+          ]
+        },
+        "sentences": {
+          "type": "sentences",
+          "cards": [
+            {
+              "id": "sentence_econ_001",
+              "original": "What began as a temporary response to pandemic-induced shortages has evolved into a fundamental restructuring of global manufacturing, one that prioritizes resilience over efficiency and political alignment over cost minimization.",
+              "translation": "最初作为对疫情引发短缺的临时应对措施，已演变为全球制造业的根本性重组——一种将韧性置于效率之上、将政治一致性置于成本最小化之上的重组。",
+              "structure": "What 引导主语从句（What began as...）+ 谓语（has evolved into...）+ 同位语 one that...，其中 that 引导定语从句修饰 one，从句中用 and 连接两个平行结构（prioritizes A over B and C over D）。",
+              "keyGrammar": "主语从句 + 同位语 + 定语从句 + 平行结构",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_econ_002",
+              "original": "The dilemma facing policymakers is that efforts to enhance domestic production capacity, while politically popular, often come at the expense of the very competitiveness that sustained decades of economic growth.",
+              "translation": "政策制定者面临的困境是：增强国内生产能力的努力虽然政治上受欢迎，但往往以牺牲维系数十年经济增长的竞争力为代价。",
+              "structure": "主语（The dilemma）+ 现在分词后置定语（facing policymakers）+ 系表结构（is that...），that 引导表语从句，从句中 efforts 为主语，while politically popular 为省略让步状语从句，come at the expense of... 为谓语，that 引导定语从句修饰 competitiveness。",
+              "keyGrammar": "表语从句 + 省略让步状语从句 + 定语从句",
+              "source": "改写"
+            },
+            {
+              "id": "sentence_econ_003",
+              "original": "Rather than viewing friend-shoring as an isolated phenomenon, analysts should recognize it as the latest chapter in a centuries-long tension between the efficiency gains of open markets and the security demands of sovereign states.",
+              "translation": "分析人士不应将友岸外包视为孤立现象，而应将其视为开放市场效率收益与主权国家安全需求之间数百年张力的最新篇章。",
+              "structure": "Rather than doing A, 主语 should recognize B as C，其中 C 为 the latest chapter in a...tension between D and E，between 连接两个名词短语（the efficiency gains...和 the security demands...）。",
+              "keyGrammar": "rather than 结构 + between...and... 平行结构",
+              "source": "改写"
+            }
+          ]
+        },
+        "examMapping": {
+          "type": "examMapping",
+          "mappings": [
+            {
+              "examYear": "2023",
+              "examType": "英语一",
+              "questionType": "阅读理解",
+              "relation": "同题材背景",
+              "note": "2023年英语一阅读Text 3考了贸易保护主义，与本文供应链重构主题直接相关"
+            },
+            {
+              "examYear": "2021",
+              "examType": "英语二",
+              "questionType": "阅读理解",
+              "relation": "同话题延伸",
+              "note": "2021年英语二阅读考了全球化影响，本文提供了最新的供应链视角"
+            }
+          ]
+        },
+        "bilingual": {
+          "type": "bilingual",
+          "paragraphs": [
+            {
+              "english": "Global trade is entering a new phase characterized by fragmentation rather than integration. The concept of 'friend-shoring' — relocating supply chains to politically aligned countries — has gained traction among Western governments seeking to reduce dependence on adversarial nations.",
+              "chinese": "全球贸易正进入一个以碎片化而非整合为特征的新阶段。友岸外包概念——将供应链迁移至政治立场一致的国家——在寻求减少对抗性国家依赖的西方政府中获得了支持。"
+            },
+            {
+              "english": "While this approach may enhance supply chain resilience and national security, it comes with significant economic costs. Manufacturing in higher-cost countries increases production expenses, which are ultimately passed on to consumers through higher prices.",
+              "chinese": "虽然这种做法可能增强供应链韧性和国家安全，但它伴随着显著的经济成本。在高成本国家进行生产会增加制造费用，而这些费用最终会通过更高的价格转嫁给消费者。"
+            },
+            {
+              "english": "Economists remain divided on whether the long-term benefits of a more resilient supply chain justify the short-term costs of economic inefficiency.",
+              "chinese": "经济学家们对于更具韧性的供应链的长期收益是否值得经济低效所带来的短期成本仍存在分歧。"
+            }
+          ]
+        },
+        "fragmentCards": {
+          "type": "fragmentCards",
+          "cards": [
+            {
+              "id": "frag_econ_001",
+              "type": "fact",
+              "content": "'Friend-shoring' means relocating supply chains to politically aligned countries.",
+              "context": "友岸外包：将供应链迁移至政治立场一致的国家"
+            },
+            {
+              "id": "frag_econ_002",
+              "type": "quote",
+              "content": "Global trade is entering a new phase characterized by fragmentation rather than integration.",
+              "context": "全球贸易进入碎片化而非整合的新阶段"
+            },
+            {
+              "id": "frag_econ_003",
+              "type": "data",
+              "content": "Manufacturing in higher-cost countries increases production expenses passed to consumers.",
+              "context": "高成本国家生产→制造费用增加→消费者承担高价"
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

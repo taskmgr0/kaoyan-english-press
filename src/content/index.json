@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "version": "1.0",
+    "lastUpdated": "2026-10-04T06:28:15.815Z",
+    "totalArticles": 4,
+    "weekCount": 1
+  },
+  "weeks": [
+    {
+      "week": "2026-W40",
+      "theme": "economy",
+      "articles": [
+        "article_2026_w40_econ_01",
+        "article_2026_w40_env_01",
+        "article_2026_w40_health_01",
+        "article_2026_w40_tech_01"
+      ]
+    }
+  ],
+  "articles": {
+    "article_2026_w40_econ_01": {
+      "title": "Global Trade Faces Uncertainty as Supply Chains Shift",
+      "topic": "economy",
+      "source": "The Guardian",
+      "publishDate": "2026-09-30",
+      "url": "https://www.theguardian.com/business/2026/09/30/global-trade-supply-chains",
+      "difficulty": "medium",
+      "wordCount": 880,
+      "generatedAt": "2026-10-04T02:30:00Z"
+    },
+    "article_2026_w40_env_01": {
+      "title": "Coral Reefs Show Unexpected Signs of Recovery",
+      "topic": "environment",
+      "source": "The Atlantic",
+      "publishDate": "2026-09-27",
+      "url": "https://www.theatlantic.com/science/archive/2026/09/coral-reef-recovery",
+      "difficulty": "hard",
+      "wordCount": 950,
+      "generatedAt": "2026-10-04T03:00:00Z"
+    },
+    "article_2026_w40_health_01": {
+      "title": "Sleep Deprivation: The Hidden Epidemic Affecting Modern Workplaces",
+      "topic": "health",
+      "source": "BBC News",
+      "publishDate": "2026-09-29",
+      "url": "https://www.bbc.com/news/health-2026-sleep-deprivation",
+      "difficulty": "easy",
+      "wordCount": 780,
+      "generatedAt": "2026-10-04T02:45:00Z"
+    },
+    "article_2026_w40_tech_01": {
+      "title": "AI Regulation: The EU's Bold New Framework",
+      "topic": "technology",
+      "source": "The Economist",
+      "publishDate": "2026-09-28",
+      "url": "https://www.economist.com/technology-quarterly/2026/09/28/ai-regulation",
+      "difficulty": "medium",
+      "wordCount": 920,
+      "generatedAt": "2026-10-04T02:15:00Z"
+    }
+  },
+  "topics": {
+    "economy": {
+      "name": "economy",
+      "articleCount": 1,
+      "articleIds": [
+        "article_2026_w40_econ_01"
+      ]
+    },
+    "environment": {
+      "name": "environment",
+      "articleCount": 1,
+      "articleIds": [
+        "article_2026_w40_env_01"
+      ]
+    },
+    "health": {
+      "name": "health",
+      "articleCount": 1,
+      "articleIds": [
+        "article_2026_w40_health_01"
+      ]
+    },
+    "technology": {
+      "name": "technology",
+      "articleCount": 1,
+      "articleIds": [
+        "article_2026_w40_tech_01"
+      ]
+    }
+  }
+}
